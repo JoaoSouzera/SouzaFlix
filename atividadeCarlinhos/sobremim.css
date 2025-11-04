@@ -78,21 +78,21 @@ section {
     border-radius: 10px;
 }
 footer {
-  text-align: center;
-  padding: 15px;
-  background-color: #e0e7f3;
-  color: #333;
+    text-align: center;
+    padding: 15px;
+    background-color: #e0e7f3;
+    color: #333;
 }
 footer a {
-  text-decoration: none;
-  color: rgb(38, 72, 123);
+    text-decoration: none;
+    color: rgb(38, 72, 123);
 }
 @media (max-width: 768px) {
-  .curiosidades {
-    grid-template-columns: 1fr;
-  }
-  section {
-    width: 90%;
-    padding: 20px;
-  }
+    .curiosidades {
+        grid-template-columns: 1fr;
+    }
+    section {
+        width: 90%;
+        padding: 20px;
+    }
 }
