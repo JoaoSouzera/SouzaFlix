@@ -47,10 +47,10 @@ section {
     padding-bottom: 30px;
 }
 #ftLugares{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  width: 70%;
-  margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 70%;
+    margin: 0 auto;
 }
 .curiosidades {
     display: grid;
